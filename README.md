@@ -93,7 +93,7 @@ By analyzing user activity, cancellations, loyalty, and engagement patterns, the
 **Falah Razan Hibrizi**  
 Informatics Student @ Telkom University | AI & Data Science Enthusiast  
 📍 Bandung, Indonesia  
-🔗 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/falah-razan-hibrizi-3b36b2280/)) · [GitHub](https://github.com/Frazanhibriz)
+🔗 [LinkedIn]([https://www.linkedin.com/in/falah-razan-hibrizi-3b36b2280/]) · [GitHub](https://github.com/Frazanhibriz)
 
 ---
 
