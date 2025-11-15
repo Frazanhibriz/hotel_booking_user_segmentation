@@ -120,6 +120,16 @@ Informatics Student @ Telkom University · AI & Data Science Enthusiast
 
 ---
 
+## 🔗 Related Project
+
+This repository contains the complete data preprocessing, feature engineering, and customer segmentation workflow.
+
+For the interactive Streamlit dashboard version of this project, visit:  
+👉 **Customer Segmentation Dashboard**  
+https://github.com/Frazanhibriz/customer_segmentation_dashboard/tree/main
+
+---
+
 <p align="center">
   ⭐ <b>If you find this project insightful, feel free to star or fork it!</b> ⭐  
 </p>
