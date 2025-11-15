@@ -45,22 +45,26 @@ By analyzing user activity, cancellations, loyalty, and engagement patterns, the
 ## 📊 Results & Insights
 
 | Cluster | Segment Name | Behavioral Traits | Strategic Recommendation |
-|----------|----------------|------------------|---------------------------|
-| **0 – Cancellation-Prone Users** | High cancellation rate (~0.83), low loyalty, long inactivity | Introduce **deposit policy** or **limited-time offers** to reduce cancellations |
-| **1 – Regular Users** | Stable behavior, moderate spending, low churn | Maintain retention with **loyalty reminders and periodic discounts** |
-| **2 – Active Planners** | High engagement, many booking changes & requests, rare cancellations | Provide **premium options** such as flexible rescheduling or itinerary planning tools |
-| **3 – Loyal High-Spenders** | Frequent bookings, high revenue, low cancellation, active recency | Offer **exclusive rewards and membership benefits** to strengthen loyalty |
+|:--------|:--------------|:------------------|:--------------------------|
+| **0 – Cancellation-Prone Users** | High cancellation rate (~0.83), low loyalty, long inactivity | Introduce **deposit policy** or **limited-time offers** to reduce cancellations | Encourage **re-activation** through special incentives or stricter booking commitments |
+| **1 – Regular Users** | Stable behavior, moderate spending, low churn | Maintain retention with **loyalty reminders** and **periodic discounts** | Strengthen loyalty with **tiered point programs** and **personalized deals** |
+| **2 – Active Planners** | High engagement, many booking changes & requests, rare cancellations | Provide **premium options** such as flexible rescheduling or itinerary planning tools | Upsell **priority support** and **exclusive travel perks** |
+| **3 – Loyal High-Spenders** | Frequent bookings, high revenue, low cancellation, active recency | Offer **exclusive rewards** and **membership benefits** to strengthen loyalty | Focus on **retention & cross-sell campaigns** (e.g., bundles, upgrades) |
 
 ---
 
 ## 📈 Key Visualizations
-- **Elbow Curve** → identifies *k = 4* as the optimal cluster count
+
+- **Elbow Curve** → identifies *k = 4* as the optimal cluster count  
   <img width="639" height="398" alt="output" src="https://github.com/user-attachments/assets/e78b2ba9-ab7a-4a4b-9020-fb32337324bd" />
-- **Silhouette Plot** → confirms good separation between groups
+
+- **Silhouette Plot** → confirms good separation between groups  
   <img width="626" height="398" alt="output" src="https://github.com/user-attachments/assets/75c989b6-db9b-4ba7-85b9-13dad20926d5" />
-- **Cluster Distribution** → shows the majority belong to “Regular Users” segment (~57%)
+
+- **Cluster Distribution** → shows the majority belong to “Regular Users” segment (~57%)  
   <img width="553" height="393" alt="output" src="https://github.com/user-attachments/assets/0eba9eb0-9be9-433f-bb99-529cd4d9afce" />
-- **Heatmap Profiling** → highlights behavioral contrasts across clusters
+
+- **Heatmap Profiling** → highlights behavioral contrasts across clusters  
   <img width="785" height="682" alt="output" src="https://github.com/user-attachments/assets/29043e3f-397e-41e9-a1d2-068f28fb39bc" />
 
 ---
